@@ -80,7 +80,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.0.1",
-    "@babel/preset-env": "^7.0.0-beta.54",
+    "@babel/preset-env": "^7.0.0",
     "@types/babel-core": "^6.25.5",
     "@types/babel__core": "^7.0.1",
     "@types/es6-shim": "0.31.37",
